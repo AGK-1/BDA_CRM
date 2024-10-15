@@ -155,7 +155,6 @@ namespace BDA.Controllers
 
 
         [HttpPut("CustomerD/{id}")]
-		[Authorize]
         public async Task<IActionResult> UpdateCustomerD(int id, [FromBody] Customers updatedCustomer)
         {
            

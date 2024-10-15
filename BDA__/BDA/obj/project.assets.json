@@ -5740,11 +5740,11 @@
   "project": {
     "version": "1.0.0",
     "restore": {
-      "projectUniqueName": "C:\\Users\\wikto\\OneDrive\\Desktop\\BDA__\\BDA\\BDA.csproj",
+      "projectUniqueName": "C:\\Users\\wikto\\OneDrive\\Desktop\\git\\BDA__\\BDA\\BDA.csproj",
       "projectName": "BDA",
-      "projectPath": "C:\\Users\\wikto\\OneDrive\\Desktop\\BDA__\\BDA\\BDA.csproj",
+      "projectPath": "C:\\Users\\wikto\\OneDrive\\Desktop\\git\\BDA__\\BDA\\BDA.csproj",
       "packagesPath": "C:\\Users\\wikto\\.nuget\\packages\\",
-      "outputPath": "C:\\Users\\wikto\\OneDrive\\Desktop\\BDA__\\BDA\\obj\\",
+      "outputPath": "C:\\Users\\wikto\\OneDrive\\Desktop\\git\\BDA__\\BDA\\obj\\",
       "projectStyle": "PackageReference",
       "fallbackFolders": [
         "C:\\Program Files (x86)\\Microsoft Visual Studio\\Shared\\NuGetPackages"

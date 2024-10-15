@@ -1,8 +1,8 @@
 {
   "version": 2,
-  "dgSpecHash": "tO7MhsXnNEaoeoofOA/OW65uMzEf/ej/D+q0EafqBGuynHGT0u9191gtfdDigKvFV/PzyruB5xmmrNnPP/QXlQ==",
+  "dgSpecHash": "Kvgw1mATl51BKOusgYKhL32kPwe2HOY4+zoSLtOOMZbT+t4IU03P71Aei9BNyv87aRUxYEe+0G9h1UdypSUJbw==",
   "success": true,
-  "projectFilePath": "C:\\Users\\wikto\\OneDrive\\Desktop\\BDA__\\BDA\\BDA.csproj",
+  "projectFilePath": "C:\\Users\\wikto\\OneDrive\\Desktop\\git\\BDA__\\BDA\\BDA.csproj",
   "expectedPackageFiles": [
     "C:\\Users\\wikto\\.nuget\\packages\\automapper\\9.0.0\\automapper.9.0.0.nupkg.sha512",
     "C:\\Users\\wikto\\.nuget\\packages\\automapper.extensions.microsoft.dependencyinjection\\7.0.0\\automapper.extensions.microsoft.dependencyinjection.7.0.0.nupkg.sha512",

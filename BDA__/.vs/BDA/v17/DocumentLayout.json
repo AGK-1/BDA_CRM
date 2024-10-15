@@ -1,37 +1,37 @@
 {
   "Version": 1,
-  "WorkspaceRootPath": "C:\\Users\\wikto\\OneDrive\\Desktop\\BDA__\\",
+  "WorkspaceRootPath": "C:\\Users\\wikto\\OneDrive\\Desktop\\git\\BDA__\\",
   "Documents": [
     {
-      "AbsoluteMoniker": "D:0:0:{443ED110-63BA-456A-AC80-DD7402454854}|BDA\\BDA.csproj|c:\\users\\wikto\\onedrive\\desktop\\bda__\\bda\\controllers\\postcontroller.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}",
+      "AbsoluteMoniker": "D:0:0:{443ED110-63BA-456A-AC80-DD7402454854}|BDA\\BDA.csproj|c:\\users\\wikto\\onedrive\\desktop\\git\\bda__\\bda\\controllers\\postcontroller.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}",
       "RelativeMoniker": "D:0:0:{443ED110-63BA-456A-AC80-DD7402454854}|BDA\\BDA.csproj|solutionrelative:bda\\controllers\\postcontroller.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}"
     },
     {
-      "AbsoluteMoniker": "D:0:0:{443ED110-63BA-456A-AC80-DD7402454854}|BDA\\BDA.csproj|c:\\users\\wikto\\onedrive\\desktop\\bda__\\bda\\controllers\\usercontroller.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}",
+      "AbsoluteMoniker": "D:0:0:{443ED110-63BA-456A-AC80-DD7402454854}|BDA\\BDA.csproj|C:\\Users\\wikto\\OneDrive\\Desktop\\git\\BDA__\\bda\\controllers\\usercontroller.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}",
       "RelativeMoniker": "D:0:0:{443ED110-63BA-456A-AC80-DD7402454854}|BDA\\BDA.csproj|solutionrelative:bda\\controllers\\usercontroller.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}"
     },
     {
-      "AbsoluteMoniker": "D:0:0:{443ED110-63BA-456A-AC80-DD7402454854}|BDA\\BDA.csproj|c:\\users\\wikto\\onedrive\\desktop\\bda__\\bda\\controllers\\authcontroller.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}",
+      "AbsoluteMoniker": "D:0:0:{443ED110-63BA-456A-AC80-DD7402454854}|BDA\\BDA.csproj|C:\\Users\\wikto\\OneDrive\\Desktop\\git\\BDA__\\bda\\controllers\\authcontroller.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}",
       "RelativeMoniker": "D:0:0:{443ED110-63BA-456A-AC80-DD7402454854}|BDA\\BDA.csproj|solutionrelative:bda\\controllers\\authcontroller.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}"
     },
     {
-      "AbsoluteMoniker": "D:0:0:{443ED110-63BA-456A-AC80-DD7402454854}|BDA\\BDA.csproj|c:\\users\\wikto\\onedrive\\desktop\\bda__\\bda\\controllers\\customercontroller.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}",
+      "AbsoluteMoniker": "D:0:0:{443ED110-63BA-456A-AC80-DD7402454854}|BDA\\BDA.csproj|C:\\Users\\wikto\\OneDrive\\Desktop\\git\\BDA__\\bda\\controllers\\customercontroller.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}",
       "RelativeMoniker": "D:0:0:{443ED110-63BA-456A-AC80-DD7402454854}|BDA\\BDA.csproj|solutionrelative:bda\\controllers\\customercontroller.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}"
     },
     {
-      "AbsoluteMoniker": "D:0:0:{443ED110-63BA-456A-AC80-DD7402454854}|BDA\\BDA.csproj|c:\\users\\wikto\\onedrive\\desktop\\bda__\\bda\\appdbcontext.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}",
+      "AbsoluteMoniker": "D:0:0:{443ED110-63BA-456A-AC80-DD7402454854}|BDA\\BDA.csproj|C:\\Users\\wikto\\OneDrive\\Desktop\\git\\BDA__\\bda\\appdbcontext.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}",
       "RelativeMoniker": "D:0:0:{443ED110-63BA-456A-AC80-DD7402454854}|BDA\\BDA.csproj|solutionrelative:bda\\appdbcontext.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}"
     },
     {
-      "AbsoluteMoniker": "D:0:0:{443ED110-63BA-456A-AC80-DD7402454854}|BDA\\BDA.csproj|c:\\users\\wikto\\onedrive\\desktop\\bda__\\bda\\emailsender\\iemailsender_s.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}",
+      "AbsoluteMoniker": "D:0:0:{443ED110-63BA-456A-AC80-DD7402454854}|BDA\\BDA.csproj|C:\\Users\\wikto\\OneDrive\\Desktop\\git\\BDA__\\bda\\emailsender\\iemailsender_s.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}",
       "RelativeMoniker": "D:0:0:{443ED110-63BA-456A-AC80-DD7402454854}|BDA\\BDA.csproj|solutionrelative:bda\\emailsender\\iemailsender_s.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}"
     },
     {
-      "AbsoluteMoniker": "D:0:0:{443ED110-63BA-456A-AC80-DD7402454854}|BDA\\BDA.csproj|C:\\Users\\wikto\\OneDrive\\Desktop\\BDA__\\bda\\program.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}",
+      "AbsoluteMoniker": "D:0:0:{443ED110-63BA-456A-AC80-DD7402454854}|BDA\\BDA.csproj|C:\\Users\\wikto\\OneDrive\\Desktop\\git\\BDA__\\bda\\program.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}",
       "RelativeMoniker": "D:0:0:{443ED110-63BA-456A-AC80-DD7402454854}|BDA\\BDA.csproj|solutionrelative:bda\\program.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}"
     },
     {
-      "AbsoluteMoniker": "D:0:0:{443ED110-63BA-456A-AC80-DD7402454854}|BDA\\BDA.csproj|c:\\users\\wikto\\onedrive\\desktop\\bda__\\bda\\emailsender\\iemailsender_s.cs||{A5401142-F49D-43DB-90B1-F57BA349E55C}",
+      "AbsoluteMoniker": "D:0:0:{443ED110-63BA-456A-AC80-DD7402454854}|BDA\\BDA.csproj|C:\\Users\\wikto\\OneDrive\\Desktop\\git\\BDA__\\bda\\emailsender\\iemailsender_s.cs||{A5401142-F49D-43DB-90B1-F57BA349E55C}",
       "RelativeMoniker": "D:0:0:{443ED110-63BA-456A-AC80-DD7402454854}|BDA\\BDA.csproj|solutionrelative:bda\\emailsender\\iemailsender_s.cs||{A5401142-F49D-43DB-90B1-F57BA349E55C}"
     }
   ],
@@ -45,71 +45,6 @@
           "SelectedChildIndex": 7,
           "Children": [
             {
-              "$type": "Document",
-              "DocumentIndex": 5,
-              "Title": "IEmailSender_s.cs",
-              "DocumentMoniker": "C:\\Users\\wikto\\OneDrive\\Desktop\\BDA__\\BDA\\EmailSender\\IEmailSender_s.cs",
-              "RelativeDocumentMoniker": "BDA\\EmailSender\\IEmailSender_s.cs",
-              "ToolTip": "C:\\Users\\wikto\\OneDrive\\Desktop\\BDA__\\BDA\\EmailSender\\IEmailSender_s.cs",
-              "RelativeToolTip": "BDA\\EmailSender\\IEmailSender_s.cs",
-              "ViewState": "AQIAAAAAAAAAAAAAAAAAABcAAABFAAAA",
-              "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000738|",
-              "WhenOpened": "2024-10-15T00:43:57.699Z",
-              "EditorCaption": ""
-            },
-            {
-              "$type": "Document",
-              "DocumentIndex": 4,
-              "Title": "AppDbContext.cs",
-              "DocumentMoniker": "C:\\Users\\wikto\\OneDrive\\Desktop\\BDA__\\BDA\\AppDbContext.cs",
-              "RelativeDocumentMoniker": "BDA\\AppDbContext.cs",
-              "ToolTip": "C:\\Users\\wikto\\OneDrive\\Desktop\\BDA__\\BDA\\AppDbContext.cs",
-              "RelativeToolTip": "BDA\\AppDbContext.cs",
-              "ViewState": "AQIAAAYAAAAAAAAAAAAAACwAAAADAAAA",
-              "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000738|",
-              "WhenOpened": "2024-10-15T00:40:58.887Z",
-              "EditorCaption": ""
-            },
-            {
-              "$type": "Document",
-              "DocumentIndex": 3,
-              "Title": "CustomerController.cs",
-              "DocumentMoniker": "C:\\Users\\wikto\\OneDrive\\Desktop\\BDA__\\BDA\\Controllers\\CustomerController.cs",
-              "RelativeDocumentMoniker": "BDA\\Controllers\\CustomerController.cs",
-              "ToolTip": "C:\\Users\\wikto\\OneDrive\\Desktop\\BDA__\\BDA\\Controllers\\CustomerController.cs",
-              "RelativeToolTip": "BDA\\Controllers\\CustomerController.cs",
-              "ViewState": "AQIAABEAAAAAAAAAAAAQwBUAAAAWAAAA",
-              "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000738|",
-              "WhenOpened": "2024-10-15T00:26:48.443Z",
-              "EditorCaption": ""
-            },
-            {
-              "$type": "Document",
-              "DocumentIndex": 1,
-              "Title": "UserController.cs",
-              "DocumentMoniker": "C:\\Users\\wikto\\OneDrive\\Desktop\\BDA__\\BDA\\Controllers\\UserController.cs",
-              "RelativeDocumentMoniker": "BDA\\Controllers\\UserController.cs",
-              "ToolTip": "C:\\Users\\wikto\\OneDrive\\Desktop\\BDA__\\BDA\\Controllers\\UserController.cs",
-              "RelativeToolTip": "BDA\\Controllers\\UserController.cs",
-              "ViewState": "AQIAAAAAAAAAAAAAAAAAAEAAAAABAAAA",
-              "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000738|",
-              "WhenOpened": "2024-10-15T00:25:08.813Z",
-              "EditorCaption": ""
-            },
-            {
-              "$type": "Document",
-              "DocumentIndex": 2,
-              "Title": "AuthController.cs",
-              "DocumentMoniker": "C:\\Users\\wikto\\OneDrive\\Desktop\\BDA__\\BDA\\Controllers\\AuthController.cs",
-              "RelativeDocumentMoniker": "BDA\\Controllers\\AuthController.cs",
-              "ToolTip": "C:\\Users\\wikto\\OneDrive\\Desktop\\BDA__\\BDA\\Controllers\\AuthController.cs",
-              "RelativeToolTip": "BDA\\Controllers\\AuthController.cs",
-              "ViewState": "AQIAABIAAAAAAAAAAAAAAAAAAAAAAAAA",
-              "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000738|",
-              "WhenOpened": "2024-10-14T23:51:32.893Z",
-              "EditorCaption": ""
-            },
-            {
               "$type": "Bookmark",
               "Name": "ST:0:0:{cce594b6-0c39-4442-ba28-10c64ac7e89f}"
             },
@@ -119,13 +54,73 @@
             },
             {
               "$type": "Document",
+              "DocumentIndex": 5,
+              "Title": "IEmailSender_s.cs",
+              "DocumentMoniker": "C:\\Users\\wikto\\OneDrive\\Desktop\\git\\BDA__\\BDA\\EmailSender\\IEmailSender_s.cs",
+              "RelativeDocumentMoniker": "BDA\\EmailSender\\IEmailSender_s.cs",
+              "ToolTip": "C:\\Users\\wikto\\OneDrive\\Desktop\\git\\BDA__\\BDA\\EmailSender\\IEmailSender_s.cs",
+              "RelativeToolTip": "BDA\\EmailSender\\IEmailSender_s.cs",
+              "ViewState": "AQIAAAAAAAAAAAAAAAAAABcAAABFAAAA",
+              "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000738|",
+              "WhenOpened": "2024-10-15T00:43:57.699Z"
+            },
+            {
+              "$type": "Document",
+              "DocumentIndex": 4,
+              "Title": "AppDbContext.cs",
+              "DocumentMoniker": "C:\\Users\\wikto\\OneDrive\\Desktop\\git\\BDA__\\BDA\\AppDbContext.cs",
+              "RelativeDocumentMoniker": "BDA\\AppDbContext.cs",
+              "ToolTip": "C:\\Users\\wikto\\OneDrive\\Desktop\\git\\BDA__\\BDA\\AppDbContext.cs",
+              "RelativeToolTip": "BDA\\AppDbContext.cs",
+              "ViewState": "AQIAAAYAAAAAAAAAAAAAACwAAAADAAAA",
+              "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000738|",
+              "WhenOpened": "2024-10-15T00:40:58.887Z"
+            },
+            {
+              "$type": "Document",
+              "DocumentIndex": 3,
+              "Title": "CustomerController.cs",
+              "DocumentMoniker": "C:\\Users\\wikto\\OneDrive\\Desktop\\git\\BDA__\\BDA\\Controllers\\CustomerController.cs",
+              "RelativeDocumentMoniker": "BDA\\Controllers\\CustomerController.cs",
+              "ToolTip": "C:\\Users\\wikto\\OneDrive\\Desktop\\git\\BDA__\\BDA\\Controllers\\CustomerController.cs",
+              "RelativeToolTip": "BDA\\Controllers\\CustomerController.cs",
+              "ViewState": "AQIAABEAAAAAAAAAAAAQwBUAAAAWAAAA",
+              "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000738|",
+              "WhenOpened": "2024-10-15T00:26:48.443Z"
+            },
+            {
+              "$type": "Document",
+              "DocumentIndex": 1,
+              "Title": "UserController.cs",
+              "DocumentMoniker": "C:\\Users\\wikto\\OneDrive\\Desktop\\git\\BDA__\\BDA\\Controllers\\UserController.cs",
+              "RelativeDocumentMoniker": "BDA\\Controllers\\UserController.cs",
+              "ToolTip": "C:\\Users\\wikto\\OneDrive\\Desktop\\git\\BDA__\\BDA\\Controllers\\UserController.cs",
+              "RelativeToolTip": "BDA\\Controllers\\UserController.cs",
+              "ViewState": "AQIAAAAAAAAAAAAAAAAAAEAAAAABAAAA",
+              "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000738|",
+              "WhenOpened": "2024-10-15T00:25:08.813Z"
+            },
+            {
+              "$type": "Document",
+              "DocumentIndex": 2,
+              "Title": "AuthController.cs",
+              "DocumentMoniker": "C:\\Users\\wikto\\OneDrive\\Desktop\\git\\BDA__\\BDA\\Controllers\\AuthController.cs",
+              "RelativeDocumentMoniker": "BDA\\Controllers\\AuthController.cs",
+              "ToolTip": "C:\\Users\\wikto\\OneDrive\\Desktop\\git\\BDA__\\BDA\\Controllers\\AuthController.cs",
+              "RelativeToolTip": "BDA\\Controllers\\AuthController.cs",
+              "ViewState": "AQIAABIAAAAAAAAAAAAAAAAAAAAAAAAA",
+              "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000738|",
+              "WhenOpened": "2024-10-14T23:51:32.893Z"
+            },
+            {
+              "$type": "Document",
               "DocumentIndex": 0,
               "Title": "PostController.cs",
-              "DocumentMoniker": "C:\\Users\\wikto\\OneDrive\\Desktop\\BDA__\\BDA\\Controllers\\PostController.cs",
+              "DocumentMoniker": "C:\\Users\\wikto\\OneDrive\\Desktop\\git\\BDA__\\BDA\\Controllers\\PostController.cs",
               "RelativeDocumentMoniker": "BDA\\Controllers\\PostController.cs",
-              "ToolTip": "C:\\Users\\wikto\\OneDrive\\Desktop\\BDA__\\BDA\\Controllers\\PostController.cs",
+              "ToolTip": "C:\\Users\\wikto\\OneDrive\\Desktop\\git\\BDA__\\BDA\\Controllers\\PostController.cs",
               "RelativeToolTip": "BDA\\Controllers\\PostController.cs",
-              "ViewState": "AQIAAAAAAAAAAAAAAAAAABYAAAAAAAAA",
+              "ViewState": "AQIAAJIAAAAAAAAAAAAWwJwAAAAjAAAA",
               "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000738|",
               "WhenOpened": "2024-10-14T23:51:45.97Z",
               "EditorCaption": ""
@@ -134,27 +129,25 @@
               "$type": "Document",
               "DocumentIndex": 7,
               "Title": "IEmailSender_s.cs",
-              "DocumentMoniker": "C:\\Users\\wikto\\OneDrive\\Desktop\\BDA__\\BDA\\EmailSender\\IEmailSender_s.cs",
+              "DocumentMoniker": "C:\\Users\\wikto\\OneDrive\\Desktop\\git\\BDA__\\BDA\\EmailSender\\IEmailSender_s.cs",
               "RelativeDocumentMoniker": "BDA\\EmailSender\\IEmailSender_s.cs",
-              "ToolTip": "C:\\Users\\wikto\\OneDrive\\Desktop\\BDA__\\BDA\\EmailSender\\IEmailSender_s.cs",
+              "ToolTip": "C:\\Users\\wikto\\OneDrive\\Desktop\\git\\BDA__\\BDA\\EmailSender\\IEmailSender_s.cs",
               "RelativeToolTip": "BDA\\EmailSender\\IEmailSender_s.cs",
               "ViewState": "AQIAAAkAAAAAAAAAAAAAABsAAAAXAAAA",
               "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000738|",
-              "WhenOpened": "2024-10-14T19:55:03.454Z",
-              "EditorCaption": ""
+              "WhenOpened": "2024-10-14T19:55:03.454Z"
             },
             {
               "$type": "Document",
               "DocumentIndex": 6,
               "Title": "Program.cs",
-              "DocumentMoniker": "C:\\Users\\wikto\\OneDrive\\Desktop\\BDA__\\BDA\\Program.cs",
+              "DocumentMoniker": "C:\\Users\\wikto\\OneDrive\\Desktop\\git\\BDA__\\BDA\\Program.cs",
               "RelativeDocumentMoniker": "BDA\\Program.cs",
-              "ToolTip": "C:\\Users\\wikto\\OneDrive\\Desktop\\BDA__\\BDA\\Program.cs",
+              "ToolTip": "C:\\Users\\wikto\\OneDrive\\Desktop\\git\\BDA__\\BDA\\Program.cs",
               "RelativeToolTip": "BDA\\Program.cs",
               "ViewState": "AQIAALEAAAAAAAAAAAA4wIwAAAAAAAAA",
               "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000738|",
-              "WhenOpened": "2024-10-11T20:11:15.088Z",
-              "EditorCaption": ""
+              "WhenOpened": "2024-10-11T20:11:15.088Z"
             }
           ]
         }
