@@ -401,44 +401,7 @@ namespace BDA.Controllers
 			}
 		}
 		/////////////////////////////////////////////
-
-
-		[HttpGet("withUserNames")]
-		public async Task<IActionResult> GetEmailsWithUserNames()
-		{
-			var result = await _context.Emails
-				.Include(e => e.SentByUser) // Связываем Email с User
-				.Select(e => new
-				{
-					UserName = e.SentByUser.Name, // Имя пользователя
-					EmailSubject = e.Subject // Тема письма
-				})
-				.ToListAsync();
-
-			return Ok(result); // Возвращаем результат в формате JSON
-		}
-
-		[HttpGet("GetUserByCustomerId/{customerId}")]
-		public async Task<IActionResult> GetUserByCustomerId(int customerId)
-		{
-			// Получаем клиента с пользователем по Id клиента
-			var customer = await _context.Customers
-				.Include(c => c.CreatedByUser) 
-				.FirstOrDefaultAsync(c => c.Id == customerId);
-
-			if (customer == null || customer.CreatedByUser == null)
-			{
-				return NotFound("Customer or user not found");
-			}
-
-			
-			return Ok(new
-			{
-				UserName = customer.CreatedByUser.Name,
-				surname = customer.CreatedByUser.Email
-			});
-		}
-
+		
 		[Authorize(Roles = "Admin")]
 		[HttpGet("admin-only")]
 		public IActionResult AdminOnly()

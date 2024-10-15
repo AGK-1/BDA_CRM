@@ -22,9 +22,9 @@ namespace BDA.EmailSender
             if (!_allowedIPs.Contains(remoteIp))
             {
                 context.Response.StatusCode = 403; // Доступ запрещён
-                await context.Response.WriteAsync("ERROR INVALID HANDLE \n 0x0007217272_72 " +
+                await context.Response.WriteAsync("ERROR INVALID HANDLE \n 0x00072C7_0 " +
                     "\n ERROR PATH NOT FOUND \n 訪問被拒絕消失 茂木走開。\n" +
-                    "Cút đi Motegi. What is a failure code?");
+                    "Cút đi Motegi. 訪問被拒絕消失?");
                 return;
             }
 
